@@ -1,5 +1,4 @@
 [
-
 {
 "name": "Wall_0001",
 "url": "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/1.jpg",
@@ -62,6 +61,109 @@
 "author": "MrTechySkullz",
 "collections": "Typography",
 "license": "Personal-use only"
-}
+},
 
+  {
+    name: "Wall_0009",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/9.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0010",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/10.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0011",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/11.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0012",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/12.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0013",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/13.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0014",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/14.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0015",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/15.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0016",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/16.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0017",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/17.png",
+    author: "Hexoline",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0018",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/18.png",
+    author: "Hexoline",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0019",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/19.png",
+    author: "Hexoline",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0020",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/20.png",
+    author: "Hexoline",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0021",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/21.png",
+    author: "Hexoline",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  }
 ]
