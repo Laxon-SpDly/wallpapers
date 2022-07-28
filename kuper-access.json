@@ -1,0 +1,327 @@
+[
+  // Typgraphy
+
+  {
+    name: "Wall_0001",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Typography/1.jpg",
+    author: "MrTechySkullz",
+    collections: "Typography",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0002",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Typography/2.jpg",
+    author: "MrTechySkullz",
+    collections: "Typography",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0003",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Typography/3.jpg",
+    author: "MrTechySkullz",
+    collections: "Typography",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0004",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Typography/4.jpg",
+    author: "MrTechySkullz",
+    collections: "Typography",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0005",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Typography/5.jpg",
+    author: "MrTechySkullz",
+    collections: "Typography",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0006",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Typography/6.jpg",
+    author: "MrTechySkullz",
+    collections: "Typography",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0007",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Typography/7.jpg",
+    author: "MrTechySkullz",
+    collections: "Typography",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0008",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Typography/8.jpg",
+    author: "MrTechySkullz",
+    collections: "Typography",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0009",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Typography/32.jpg",
+    author: "MrTechySkullz",
+    collections: "Typography",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0010",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Typography/33.jpg",
+    author: "MrTechySkullz",
+    collections: "Typography",
+    copyright: "Personal-use only"
+  },
+
+  // Abstract
+
+  {
+    name: "Wall_0001",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/9.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0002",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/10.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0003",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/11.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0004",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/12.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0005",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/13.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0006",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/14.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0007",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/15.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0008",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/16.png",
+    author: "Icarusap",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0009",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/17.png",
+    author: "Hexoline",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0010",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/18.png",
+    author: "Hexoline",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0011",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/19.png",
+    author: "Hexoline",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0012",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/20.png",
+    author: "Hexoline",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0013",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/21.png",
+    author: "Hexoline",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0014",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/34.jpg",
+    author: "MrTechySkullz",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0015",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/35.jpg",
+    author: "MrTechySkullz",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0016",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/36.jpg",
+    author: "MrTechySkullz",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0017",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/37.jpg",
+    author: "MrTechySkullz",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0018",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/38.jpg",
+    author: "MrTechySkullz",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0019",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/39.jpg",
+    author: "MrTechySkullz",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0020",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Abstract/40.jpg",
+    author: "MrTechySkullz",
+    collections: "Abstract",
+    copyright: "Personal-use only"
+  },
+
+  // Dope
+
+  {
+    name: "Wall_0001",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Dope/22.jpeg",
+    author: "MrTechySkullz",
+    collections: "Dope",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0002",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Dope/23.jpg",
+    author: "MrTechySkullz",
+    collections: "Dope",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0003",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Dope/24.jpeg",
+    author: "MrTechySkullz",
+    collections: "Dope",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0004",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Dope/25.jpeg",
+    author: "MrTechySkullz",
+    collections: "Dope",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0005",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Dope/26.jpeg",
+    author: "MrTechySkullz",
+    collections: "Dope",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0006",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Dope/27.jpeg",
+    author: "MrTechySkullz",
+    collections: "Dope",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0007",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Dope/28.jpeg",
+    author: "MrTechySkullz",
+    collections: "Dope",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0008",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Dope/29.jpeg",
+    author: "MrTechySkullz",
+    collections: "Dope",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0009",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Dope/30.jpeg",
+    author: "MrTechySkullz",
+    collections: "Dope",
+    copyright: "Personal-use only"
+  },
+
+  {
+    name: "Wall_0010",
+    url: "https://raw.githubusercontent.com/Laxon-SpDly/wallpapers/main/Dope/31.jpg",
+    author: "MrTechySkullz",
+    collections: "Dope",
+    copyright: "Personal-use only"
+  }
+]
